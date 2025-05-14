@@ -25,6 +25,6 @@ console.log(myCondition); // Ausgabe: true/false
 
 if (true){ // Wenn die Bedingung wahr ist führe den Code aus
     console.log("Die Bedingung ist wahr.");
-} else if (!false) { // Wenn die Bedingung falsch ist führe den Code aus
+} else  { // Wenn die Bedingung falsch ist führe den Code aus
     console.log("Die Bedingung ist falsch.");
 }
